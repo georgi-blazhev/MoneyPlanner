@@ -4,6 +4,7 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+<<<<<<< HEAD
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.13" />
@@ -14,4 +15,6 @@
     </PackageReference>
   </ItemGroup>
 
+=======
+>>>>>>> b83d9420b770f3ee5e15fb64cffd213bb9eddf5c
 </Project>

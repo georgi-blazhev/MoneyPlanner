@@ -12,8 +12,11 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+<<<<<<< HEAD
   <ItemGroup>
     <ProjectReference Include="..\MoneyPlanner.DAL\MoneyPlanner.DAL.csproj" />
   </ItemGroup>
 
+=======
+>>>>>>> b83d9420b770f3ee5e15fb64cffd213bb9eddf5c
 </Project>
